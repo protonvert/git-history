@@ -1,5 +1,5 @@
 const test = 'this is some test text'
 
-const sentence2 = `sentence: ${test} + some`
+const sentence = `sentence: ${test}`
 
-console.log(sentence2)
+console.log(sentence)
